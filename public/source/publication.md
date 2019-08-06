@@ -39,6 +39,7 @@
     
 6. Chao Fan, Yulong Wang, Chenglong Li, and Jin Tang. Visual Tracking via Siamese Network with Global Similarity. IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
+7. Rui Wang, Huaibo Huang, Xuefeng Zhang, Jixin Ma, and Aihua Zheng. A Novel Distance Learning for Elastic Cross-Modal Audio-Visual Matching. IEEE International Conference on Multimedia and Expo (**ICME**), 2019. (**Best Student Paper**)
 
 ### 2018
   
