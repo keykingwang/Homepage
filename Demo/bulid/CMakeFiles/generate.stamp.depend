@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeCInformation.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Compiler/MSVC-C.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Platform/Windows-MSVC-C.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Platform/Windows.cmake
+D:/git_tool/cmake/cmake-3.21.0-rc3-windows-x86_64/cmake-3.21.0-rc3-windows-x86_64/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+F:/git_learn_with_github/Demo/CMakeLists.txt
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/3.21.0-rc3/CMakeCCompiler.cmake
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/3.21.0-rc3/CMakeCXXCompiler.cmake
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/3.21.0-rc3/CMakeRCCompiler.cmake
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/3.21.0-rc3/CMakeSystem.cmake

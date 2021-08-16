@@ -1,0 +1,2 @@
+D:/git_tool/gccANDmake/gcc/bin/ar.exe qc libMathFunctions.a CMakeFiles/MathFunctions.dir/MathFunctions.cc.obj
+D:/git_tool/gccANDmake/gcc/bin/ranlib.exe libMathFunctions.a

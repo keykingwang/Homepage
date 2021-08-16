@@ -1,0 +1,4 @@
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/Demo.dir
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/ALL_BUILD.dir
+F:/git_learn_with_github/Demo/bulid/CMakeFiles/ZERO_CHECK.dir
+F:/git_learn_with_github/Demo/bulid/math/CMakeFiles/MathFunctions.dir
