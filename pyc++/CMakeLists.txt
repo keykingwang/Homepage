@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.1)
+project(example)
+
+find_package(PythonInterp REQUIRED)
+find_package(PythonLibs 3 REQUIRED)
+
+include_directories(${PYTHON_INCLUDE_DIRS})
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/ThirdParty/pybind11-2.5.0/include)
+set(PATH ${CMAKE_CURRENT_SOURCE_DIR}/ThirdParty/pybind11-2.5.0/include)
+set(LIB_example example)
+#MESSAGE(STATUS,"${PATH}")
+file(GLOB_RECURSE SRC ${CMAKE_CURRENT_SOURCE_DIR}/Pyc++/Project1/example.cpp)
+add_library(${LIB_example} SHARED ${SRC})
+set_target_properties(${LIB_example} PROPERTIES PREFIX "")
+set_target_properties(${LIB_example} PROPERTIES SUFFIX ".pyd")
+target_link_libraries(${LIB_example} optimized ${PYTHON_LIBRARIES})
